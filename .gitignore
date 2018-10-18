@@ -1,0 +1,16 @@
+._01-filter.sh
+._02-annovar.sh
+._02-postprocess-annovar.R
+._02-prepare-annovar.R
+._03-plot.R
+._03-plot.sh
+._04-locuszoom.sh
+._filter.pl
+._indep1MBv5.r
+._manhattan.R
+._myindepv5.R
+._params-template.sh
+._pipeline.sh
+._qqman.r
+._wait-perl.sh
+
